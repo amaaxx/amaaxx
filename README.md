@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm Amaan!+|+AI+&+Full-Stack+Engineer+|+Building+RAG+Systems+|+Developer+@+Indian+Railways)](https://git.io/typing-svg)
 
 <!--
 **amaaxx/amaaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
