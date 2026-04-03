@@ -1,7 +1,7 @@
 # Hi, I'm Amaan Ansari
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0055&width=435&lines=AI+%26+Full-Stack+Engineer;RAG+Specialist+%40+Ground+Truth;Software+Developer+%40+BLW+Railways;JMI+Computer+Science+'28" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0055&width=435&lines=AI+%26+Full-Stack+Engineer;RAG+Specialist+%40+Ground+Truth+Engine;Software+Developer+%40+Indian+Railways;JMI+Computer+Science+'28" alt="Typing SVG" />
 </p>
 
 ### 🛠 Tech Stack
